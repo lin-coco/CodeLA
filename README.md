@@ -1,5 +1,5 @@
 # CodeLA
-Lincoco's Go Language Source Code Analysis Journey. All source codes analyzed in this project are based on version 1. 19.
+Lincoco's Go Language Source Code Analysis Journey. All source codes analyzed in this project are based on version 1.19 .
 
 The following have been analyzed.
 
